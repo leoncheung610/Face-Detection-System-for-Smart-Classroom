@@ -24,7 +24,7 @@ Anonymize Faces (Pixelate)
 ---
 
 ### 3. Low-Light Adaption
-Improve the lightness in dark environment
+Improve the brightness in dark environment
 
 <img src="screenshots/low_light.png" alt="Low-Light Enhancement" width="600" height="500">
 
